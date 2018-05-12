@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32617#The-Galaxy-May-1877Vol.-XXIII.-May-1877.-No.-5.
 gutenberg_bookshelf: The Galaxy
 gutenberg_issued: '2010-05-31'
 gutenberg_type: Text
